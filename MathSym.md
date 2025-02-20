@@ -11,7 +11,7 @@ $×$
 $÷$
 
 ### Square Root
-$\sqrt{x}$
+$\sqrt{}$
 
 ### Exponential
 $a^{x}$
